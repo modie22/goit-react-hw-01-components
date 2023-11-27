@@ -1,4 +1,4 @@
-table {
+.list {
     margin-left:auto;
     margin-right: auto;
     margin-top: 30px;
@@ -6,11 +6,11 @@ table {
     width: 370px;
     border-spacing: 0;
   }
-  thead tr {
+.item{
     margin-bottom: 5px;
     padding: 10px;
   }
-  table td {
+.element {
     padding: 10px;
     width: inherit;
     font-weight: 700;
