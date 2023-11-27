@@ -9,6 +9,7 @@
     align-items: center;
     width: inherit;
     padding: 0;
+    gap: 5px;
   }
   .friends__item {
     display: flex;

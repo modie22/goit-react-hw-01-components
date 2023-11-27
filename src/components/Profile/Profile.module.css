@@ -38,15 +38,21 @@
   }
   .stats {
     display: flex;
+    height: 70px;
     list-style: none;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content:space-around;
     margin: auto;
     padding: 0;
     width: inherit;
     background-color: #d3d3d3;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+  }
+  .stats li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .location {
     font-weight: 700;
