@@ -1,20 +1,20 @@
 .list {
-    margin-left:auto;
-    margin-right: auto;
-    margin-top: 30px;
-    box-shadow: 0 0 10px #6b9f9fed;
-    width: 370px;
-    border-spacing: 0;
-  }
-.item{
-    margin-bottom: 5px;
-    padding: 10px;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  box-shadow: 0 0 10px #6b9f9fed;
+  width: 370px;
+  border-spacing: 0;
+}
+.item {
+  margin-bottom: 5px;
+  padding: 10px;
+}
 .element {
-    padding: 10px;
-    width: inherit;
-    font-weight: 700;
-    font-size: 15px;
-    color: #563e47;
-    justify-content: center;
-  }
+  padding: 10px;
+  width: inherit;
+  font-weight: 700;
+  font-size: 15px;
+  color: #563e47;
+  justify-content: center;
+}
